@@ -1,0 +1,11 @@
+{
+  "name": "metalify",
+  "version": "1.0.0",
+  "description": "Metalify your music taste and get a personalized playlist!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Kodera",
+  "license": "ISC"
+}
